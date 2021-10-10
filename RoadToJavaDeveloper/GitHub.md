@@ -53,7 +53,19 @@ Here is a useful Git Cheat Sheet created by the YouTuber ["Programming with Mosh
 * Opens the current directory in your chosen core editor.
 >git status
 * Returns the status of your current changes in the repository.
->git add.
+>git show-ref
+* This command will show you your branch reference.
+>git add .
 * Adds all changes that have been made in your local repository to the actual repository.
+>git add -u
+* Updates all of your changes that have been made. Useful when files have been removed from the local repository. 
 > git remote add origin https://github.com/userName/repoName.git
-* This command allows you to push an existing local repository by adding a remote repository to your local one. This allows you to do all other remote operations (push, pull, feth, etc.). Note: If you have created your local repository using the command line, then do not worry about this command.
+* This command allows you to push an existing local repository by adding a remote repository to your local one. Note: If you have created your local repository using the command line, then do not worry about this command.
+>git remote add origin htpps://userName@github.com/userName/repoName.git
+* Accomplishes the same results as the command above, but this is for when your repository is private. 
+>git remote get-url origin
+* This command returns the URL of your remote repository, also known as the 'origin'. 
+>git remote rm origin
+* This command removes the current remote origin.
+.git push --set-upstream origin master
+* This command adds an upstream branch to your 'master' branch. This allows you to do all other remote operations (push, pull, feth, etc.).
