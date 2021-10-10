@@ -66,8 +66,6 @@ Here is a useful Git Cheat Sheet created by the YouTuber ["Programming with Mosh
 * This command will show you your branch reference.
 >git add .
 * Adds all changes that have been made in your local repository to the actual repository.
->git add -u
-* Updates all of your changes that have been made. Useful when files have been removed from the local repository. 
 > git remote add origin https://github.com/userName/repoName.git
 * This command allows you to push an existing local repository by adding a remote repository to your local one. Note: If you have created your local repository using the command line, then do not worry about this command.
 >git remote add origin https://userName@github.com/userName/repoName.git
@@ -101,6 +99,8 @@ It is best to ensure that your local repository is up-to-date with the remote re
 ***
 >git add fileName.format
 * Adds the new file to the staging area, or if a deletion of a file occurred, removes the file from the staging area.
+>git add .
+* Adds all changes that have been made in your local repository (namely the current directory) to the actual repository, rather than a specific file.
 
 *** 
 ### **STAGING FILES**

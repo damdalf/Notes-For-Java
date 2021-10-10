@@ -1,4 +1,4 @@
-# 228 Notes:
+# Notes-for-Java:
 ## Topic:
 
 * GitHub - Version control system. 
