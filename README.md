@@ -3,9 +3,9 @@ Hello! This is how I prefer to take notes when it comes to learning any programm
 but that doesn't cut it when it comes to learning how to program. Not only is it too slow but it prevents you froming copying down examples of code, or easily inserting explanatory visuals into your notes. By using Visual Studio Code, this [extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit), and writing your notes in Markdown.
 
 ## Quick Links:
-[Very (Very) Brief Starting Guide Written By Yours Truly](https://github.com/damdalf/Notes-For-Java/blob/main/markdownExample.md)
+[Very (Very) Brief Starting Guide Written By Yours Truly](https://github.com/damdalf/Notes-For-Java/blob/master/IntroToMarkdown/markdownExample.md)
 
-[My Personal Note Template](https://github.com/damdalf/Notes-For-Java/blob/main/noteTemplate.md)
+[My Personal Note Template](https://github.com/damdalf/Notes-For-Java/blob/master/IntroToMarkdown/noteTemplate.md)
 
 [An Awesome (And Extremely Useful :P) Markdown Cheatsheet Created By Adam P.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
