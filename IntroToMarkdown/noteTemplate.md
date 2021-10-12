@@ -1,11 +1,7 @@
 # className Notes: **WEEK 8** - Monday
 
-```Java
-/**
-* @author Devin Amdahl
-*/
-```
 ## **TOPIC:**
+***
 
 
 ## **DEFINITIONS:**
