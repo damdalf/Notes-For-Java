@@ -1,6 +1,6 @@
 # Notes-For-Java
 Hello! This is how I prefer to take notes when it comes to learning any programming language. I have always been a pen and paper kind of note-taker, 
-but that doesn't cut it when it comes to learning how to program. Not only is it too slow but it prevents you froming copying down examples of code, or easily inserting explanatory visuals into your notes. By using Visual Studio Code, this [extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit), and writing your notes in Markdown.
+but that doesn't cut it when it comes to learning how to program. Not only is it too slow but it prevents you froming copying down examples of code, or easily inserting explanatory visuals into your notes. By using Visual Studio Code, this [extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit), and writing your notes in Markdown, this all becomes a lot more manageable. Yes, you can always take notes in your preferred IDE as most people, I just prefer the flexibility of formatting that this method offers; but to each their own!
 
 ## Quick Links:
 [Very (Very) Brief Starting Guide Written By Yours Truly](https://github.com/damdalf/Notes-For-Java/blob/master/IntroToMarkdown/markdownExample.md)
