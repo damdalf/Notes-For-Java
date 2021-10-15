@@ -11,6 +11,8 @@ but that doesn't cut it when it comes to learning how to program. Not only is it
 
 [An Extremely Useful List of GitBASH Shortcuts](https://gist.github.com/tuxfight3r/60051ac67c5f0445efee)
 
+[How To Add VS Code to Your Path](https://i.gyazo.com/f61726927e01869154db1cc699ec6bf5.png)
+
 All of what you are currently seeing has been done using Markdown. Pretty cool right? Not only is knowing how to write in Markdown a very eaasy skill to learn, 
 it can be pretty useful. And as an added bonus, you can now easily access your code wherever and whenever you need!
 > Pretty neat, right?
