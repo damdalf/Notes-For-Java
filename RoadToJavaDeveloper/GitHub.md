@@ -39,6 +39,25 @@ Three different levels of Settings:
     * On macOS, use Zsh with Git plugin.
 
 ***
+### **HOW TO CLONE A PRIVATE REPOSITORY EFFICIENTLY**
+>git init
+
+>git remote add origin https://[PersonalAccessToken]@github.com/userName/repoName.git
+
+>git checkout main
+
+>git branch u- origin/main
+
+***
+### **WHAT DO WHEN YOU HAVE CHANGED THE NAME OF A BRANCH ON THE REMOTE REPOSITORY**
+>git branch -m [localBranch] [remoteBranch]
+
+>git fetch origin
+
+>git branch -u origin/main main
+
+>git remote set-head origin -a
+
 ### **CHEAT SHEET**
 Here is a useful Git Cheat Sheet created by the YouTuber ["Programming with Mosh"](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA). He's an excellent teacher and his videos are always very high quality. Great resource.
 
