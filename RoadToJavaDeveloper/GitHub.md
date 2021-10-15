@@ -38,6 +38,10 @@ Three different levels of Settings:
 * Installs a cleaner, more user friendly (and fraknly more modern) terminal appearance. However, the installation process is rather long and far more complex than the single command above. Do so at your own desire.
     * On macOS, use Zsh with Git plugin.
 
+**NOTE:**
+* If you are using a Mac, please add this to your global settings now xD. Do not make the same mistakes that I have.
+[S/O to this guy](https://i.gyazo.com/2fc72b0c91a526671d4e06badc94df0c.png)
+
 ***
 ### **HOW TO CLONE A PRIVATE REPOSITORY EFFICIENTLY**
 >git init
