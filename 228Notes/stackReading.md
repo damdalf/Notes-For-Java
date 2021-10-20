@@ -1,4 +1,4 @@
-# 228 Reading: **WEEK 8** - Wednesday
+# 228 Reading: **WEEK 9** - Wednesday
 
 ## **STACKS AND LINKED LISTS:**
 ***
