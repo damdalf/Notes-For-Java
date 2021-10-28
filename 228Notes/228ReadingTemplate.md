@@ -1,4 +1,4 @@
-# 228 Reading: **WEEK 8** - Monday
+# 228 Reading: **WEEK 10** - Monday
 
 ## **TOPIC:**
 ***
