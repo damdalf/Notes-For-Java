@@ -35,4 +35,8 @@
             * when a vertex is the currentV, then outgoingEdges contains the vertex's outgoing edges and the corresponding vertices.
             * returns resultList which contains vertices.
 ![](https://i.gyazo.com/e048a753d7dc764603b8d1683103cd5a.png)
+
+* the two vertex lists used in the topological sort algorithm will at most contain all the vertices in the graph. The remaining-edge list will at most contain all edges in the graph.
+    * Therefore, for a graph with a set of vertices V and a set of edges E, the space complexity of topological sorting is O(|V| + |E|). 
+    * If a graph implementation allows for retrieval of a vertex's incoming and outgoing edges in constant time, then the time complexity of topological sorting is also O(|V| + |E|).
 ***
