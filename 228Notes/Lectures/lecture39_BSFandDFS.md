@@ -58,4 +58,4 @@
 
 * Inuition for DFS - it greedily follows a sequence of edges until it exhausts it (like a dog getting lost in the forest). It will never branch out before finishing its current path. When it branches out, it will be in the furthest location from the source for that particular path.
 ***
-"You're going to throw me a harder one after two hours? I can do something else in my free time, like smoke weed. Kidding, I don't smoke weed. Allegedly I don't smoke weed." - Georgi Batinov
+"You're going to throw me a harder one after two hours? I can do something else in my free time, like smoke weed. Kidding, I don't smoke weed... I don't allegedly smoke weed." - Georgi Batinov
